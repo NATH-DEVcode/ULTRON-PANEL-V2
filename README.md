@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="assets/Todo.png" width="500">
+  <img src="Prompt.jpg" width="45%">
+  <img src="Opción%207-10.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="Opción%201-6.jpg" width="45%">
+  <img src="Todo.jpg" width="45%">
 </p>
 
 
