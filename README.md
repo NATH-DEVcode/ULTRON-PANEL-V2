@@ -7,9 +7,9 @@
 
 <!-- OPCIONES -->
 <p align="center">
-  <img src="Opción%1-6.jpg" width="45%" alt="Opciones 1-6">
+  <img src="Opción 1-6.jpg" width="45%" alt="Opciones 1-6">
   &nbsp;
-  <img src="Opcion%7-10.jpg" width="45%" alt="Opciones 7-10">
+  <img src="Opcion 7-10.jpg" width="45%" alt="Opciones 7-10">
 </p>
 
 <br>
