@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+logs/
+*.log
+*.bak
+*.backup
+*.bac
+*.save
+.ultron_identity
+.ultron_identity.hash
+config/secrets.conf
