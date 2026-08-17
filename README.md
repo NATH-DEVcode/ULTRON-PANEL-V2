@@ -1,11 +1,22 @@
+<!-- IMAGEN PRINCIPAL / BANNER -->
 <p align="center">
-  <img src="Prompt.jpg" width="45%">
-  <img src="Opcion 7-10.jpg" width="45%">
+  <img src="Todo.jpg" width="90%" alt="ULTRON PANEL">
 </p>
 
+<br>
+
+<!-- OPCIONES -->
 <p align="center">
-  <img src="Opción 1-6.jpg" width="45%">
-  <img src="Todo.jpg" width="45%">
+  <img src="Opción%1-6.jpg" width="45%" alt="Opciones 1-6">
+  &nbsp;
+  <img src="Opcion%7-10.jpg" width="45%" alt="Opciones 7-10">
+</p>
+
+<br>
+
+<!-- PROMPT -->
+<p align="center">
+  <img src="Prompt.jpg" width="55%" alt="Prompt ULTRON">
 </p>
 
 
