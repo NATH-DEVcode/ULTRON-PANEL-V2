@@ -18,22 +18,6 @@ ULTRON PANEL continúa en desarrollo y puede recibir nuevas funciones
 y cambios en futuras versiones.
 
 
-║ IMÁGENES ║
-
-A continuación se muestran capturas de la interfaz y módulos de ULTRON:
-
-![Ultron - Core y menú principal](images/ultron-1.jpg)
-*Figura 1 — Ultron: prompt y nombre del proyecto.*
-
-![Ultron - Menú lateral con módulos](images/ultron-2.jpg)
-*Figura 2 — Lista de módulos disponibles.*
-
-![Ultron - Listado de módulos (detalle)](images/ultron-3.jpg)
-*Figura 3 — Módulos: Conciencia, Sistema, Preferencias, etc.*
-
-![Ultron - HUD central y métricas del sistema](images/ultron-4.jpg)
-*Figura 4 — Núcleo ULTRON con anillos y panel de métricas.*
-
 
 ║ CARACTERÍSTICAS PRINCIPALES ║
 
